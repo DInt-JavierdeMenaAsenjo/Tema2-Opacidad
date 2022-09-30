@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2-Opacidad", "Tema2-Opacidad\Tema2-Opacidad.csproj", "{DCB44B81-B66D-47F3-A5B3-21F35365FC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB44B81-B66D-47F3-A5B3-21F35365FC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB44B81-B66D-47F3-A5B3-21F35365FC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB44B81-B66D-47F3-A5B3-21F35365FC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB44B81-B66D-47F3-A5B3-21F35365FC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3BBA17-DB60-4190-9099-2856918DFC78}
+	EndGlobalSection
+EndGlobal
